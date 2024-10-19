@@ -74,7 +74,7 @@
  <br> 
 <h2 align="center"><img src="https://api.iconify.design/twemoji:magnifying-glass-tilted-right.svg?width=35" /> My current position, goals, achievements & Certificates in a yamal style:</h1>
 
-```yaml
+```yamal
 current_position: Student.
 current_job: None (Self-Employed)
 education: bachelor's degree in informatics
@@ -89,6 +89,9 @@ fields_of_interests:[
                     ]
 2024 Goals: ["Learn Nuxt and Angular at 100%, also Compelete StylForecast Project!"] 
 certification: [
+  Certificates.dev: [
+           "Certified Junior JavaScript Developer" 
+]
   Udemy: [
            "The Vue 3 Bootcamp - The Complete Developer Guide",
            "Understanding TypeScript",
