@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=3b82f6&height=100&width=100%)
 
- <h2 align="center">Let's Connect And Have A Talk: </h1>
+ <h2 align="center">Let's Connect And Have A Talk:  </h1>
  <p align="center">
    <a href="https://www.instagram.com/_kostas_styl/?hl=en">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
