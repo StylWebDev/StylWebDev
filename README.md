@@ -25,7 +25,7 @@
 <br><br>- From young age i loved computers and had a dream to attend the informatics industry. After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019.
 <br><br>- Last year i decided to start my coiding journey as  a Front End Web Developer!
 <br><br>- Untill now, i managed to master Tailwinds CSS, JavaScript & TypeScript and also Vue JS Framework.
-<br><br>- Currently, i work on my Vue projects (like StylsForecast) and also take backend (node and express) & angular courses in order to improve my skills and become a full stack developer.
+<br><br>- Currently, i am on military and stopped working that much. But I try my best to improve my Vue projects (like StylsForecast) and also take backend (node and express) & react courses in order to improve my skills and become a full stack developer.
 </p>
  
 <br> 
@@ -81,7 +81,7 @@ current_position: Student.
 current_job: None (Self-Employed)
 education: bachelor's degree in informatics
 currently_learning: [
-                      "Angular The Complete Guide (2024 Edition)."
+                      "React Starters Guide."
                     ]
 fields_of_interests:[
                       "Frontend Web Development"
@@ -92,12 +92,17 @@ fields_of_interests:[
 2024 Goals: ["Learn Nuxt and Angular at 100%, also Compelete StylForecast Project!"] 
 certification: [
   Certificates.dev: [
-           "Certified Junior JavaScript Developer" 
-]
+           "Certified Junior JavaScript Developer",
+           "Mid-level Vue JS Developer"
+],
+  ScrumStudy: [
+           "SCRUM Fundamentals Certified"
+         ]
   Udemy: [
            "The Vue 3 Bootcamp - The Complete Developer Guide",
            "Understanding TypeScript",
-           "Vue 3 composition API with pinia and firebase"
+           "Vue 3 composition API with pinia and firebase",
+           "Vue - The Complete Guide"
          ]
   sololearn: [
                "Tech For Everyone"
