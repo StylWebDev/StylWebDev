@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=3b82f6&height=100&width=100%)
 
-
  <h2 align="center">Let's Connect And Have A Talk:</h1>
  <p align="center">
    <a href="https://www.instagram.com/_kostas_styl/?hl=en">
@@ -18,7 +17,6 @@
  </p>
 
 
-<br>
 <h1 align="center"><img src="https://api.iconify.design/twemoji:man-detective-medium-skin-tone.svg?width=35"/> About Myself:</h1>
 
 <p>
