@@ -20,10 +20,10 @@
 
 <p>
  - My full name is <b>Konstantinos Stylianou</b> for friends <b>Kostas</b>. I love Technology Especialy Coding. 
-<br><br>- From young age i loved computers and had a dream to attend the informatics industry. After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019.
-<br><br>- Last year i decided to start my coiding journey as  a Front End Web Developer!
-<br><br>- Untill now, i managed to master Tailwinds CSS, JavaScript & TypeScript and also Vue JS Framework.
-<br><br>- Currently, i am on military and stopped working that much. But I try my best to improve my Vue projects and also take node js, php & react courses in order to improve my skills and become a full stack developer.
+<br><br>- From young age i loved computers and had a dream to attend the informatics industry. After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019. Finally on October of 2025 i managed to get my Bachelor Degree Of Computer Science.
+<br><br>- Before 2 years decided to start my coiding journey as a Front End Web Developer!
+<br><br>- Untill now, i managed to have strong knowledge on JavaScript/TypeScript and master Tailwinds CSS and Vue JS Framework. I also have a good knowledge of Node JS, Nest JS, mySQL and some basic knowledge on React, Java & Python.   
+<br><br>- Currently, i am fulfying my military service working as a seller in Kastoria's Military BX and doing my inernship at Anveto Marketers. Idont have so much time to code... but i'm giving my best to improve my projects and also take php & react courses in order to improve my skills and become a full stack developer.
 </p>
  
 <br> 
