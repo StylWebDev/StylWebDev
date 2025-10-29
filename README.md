@@ -6,13 +6,13 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
    </a>
    <a href="https://twitter.com/AliBaBaSssS/">
-    <img height="50" src="https://api.iconify.design/devicon:twitter.svg?color=%234188be"/>
+    <img height="100" src="https://api.iconify.design/devicon:twitter.svg?color=%234188be&width=50"/>
    </a>
    <a href="https://www.linkedin.com/in/konstantinos-stylianou-a4a95625b/">
-    <img height="50" src="https://api.iconify.design/skill-icons:linkedin.svg?color=%234188be"/>
+    <img height="100" src="https://api.iconify.design/skill-icons:linkedin.svg?color=%234188be&width=50"/>
    </a>
    <a href="#">
-    <img height="50" src="https://api.iconify.design/logos:discord-icon.svg?color=%234188be"/>
+    <img height="100" src="https://api.iconify.design/logos:discord-icon.svg?color=%234188be&width=60"/>
    </a>
  </p>
 
