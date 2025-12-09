@@ -8,7 +8,6 @@
    <a href="https://twitter.com/AliBaBaSssS/">
     <img height="100" src="https://api.iconify.design/devicon:twitter.svg?color=%234188be&width=50"/>
    </a>
-
    <a href="https://www.linkedin.com/in/konstantinos-stylianou-a4a95625b/">
     <img height="100" src="https://api.iconify.design/skill-icons:linkedin.svg?color=%234188be&width=50"/>
    </a>
