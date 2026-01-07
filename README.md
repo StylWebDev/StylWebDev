@@ -47,9 +47,9 @@ currently_learning: [
                       "React Starters Guide."
                     ]
 fields_of_interests:[
-                      "Frontend Web Development"
-                      "Backend Web Developemnt"
-                      "Data Science"
+                      "Frontend Web Development",
+                      "Backend Web Developemnt",
+                      "Data Science",
                       "UI/UX"
                     ]
 2024 Goals: ["Learn Nuxt and Angular at 100%, also Compelete StylForecast Project!"] 
@@ -68,33 +68,33 @@ certification: [
            "Vue - The Complete Guide"
          ]
   sololearn: [
-               "Tech For Everyone"
-               "HTML"
+               "Tech For Everyone",
+               "HTML",
                "Coding For Data",
                "IntroDuction to SQL",
                "SQL Intermediate",
                "Coding Foundations",
-               "JavaScript"
-               "Introduction to Programming JavaScript"
-               "JavaScript Intermediate"
+               "JavaScript",
+               "Introduction to Programming JavaScript",
+               "JavaScript Intermediate",
                "Angular"
                "Web Develpoment With Angular"
                "Web Development",
-               "Responsive Web Design"
+               "Responsive Web Design",
                "React & Redux",
-               "Introduction to Python"
-               "Python Intermediate"
-               "Java"
-               "Introduction to Java"
+               "Introduction to Python",
+               "Python Intermediate",
+               "Java",
+               "Introduction to Java",
                "Java Intermediate"   
              ],
   cisco: [
-            "Introduction To Cyber Security"
-            "Cybersecurity Essentials",
+            "Introduction To Cyber Security",
+            "Cybersecurity Essentials"
          ],
   great_learning: [
-                    "App Design"
-                    "Introduction to Microsoft Ecxel"
+                    "App Design",
+                    "Introduction to Microsoft Ecxel",
                     "UI/UX For Beginners"
                   ],
   freeCodeCamp: [
@@ -106,8 +106,8 @@ certification: [
                 "Certified Javascript Devloper"
              ],
   MediteranianColledge: [
-                          "There is Digital Marketing or One is the Marketing?"
-                          "All About Tik Tok Ads: Where Creativity Meets Advertising"
+                          "There is Digital Marketing or One is the Marketing?",
+                          "All About Tik Tok Ads: Where Creativity Meets Advertising",
                           "Google Analytics: A Beginner’s Guide" 
                         ],
 ]
