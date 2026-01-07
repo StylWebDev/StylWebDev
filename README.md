@@ -1,77 +1,43 @@
-![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=random&fontColor=3b82f6&height=100&width=100%)
+![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=750387&fontColor=F93472&height=100&width=100%)
 
- <h2 align="center">Let's Connect And Have A Talk:</h1>
- <p align="center">
-   <a href="https://www.instagram.com/_kostas_styl/?hl=en">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-   </a>
-   <a href="https://twitter.com/AliBaBaSssS/">
-    <img height="100" src="https://api.iconify.design/devicon:twitter.svg?color=%234188be&width=50"/>
-   </a>
-   <a href="https://www.linkedin.com/in/konstantinos-stylianou-a4a95625b/">
-    <img height="100" src="https://api.iconify.design/skill-icons:linkedin.svg?color=%234188be&width=50"/>
-   </a>
-   <a href="#">
-    <img height="100" src="https://api.iconify.design/logos:discord-icon.svg?color=%234188be&width=60"/>
-   </a>
- </p>
+ ## Let's Connect And Have A Talk:
 
-<h1 align="center"><img src="https://api.iconify.design/twemoji:man-detective-medium-skin-tone.svg?width=35"/> About Myself:</h1>
+[![instagram](https://api.iconify.design/streamline-ultimate-color:instagram-logo.svg?width=50)](https://www.instagram.com/_kostas_styl/?hl=en)
+[![x](https://api.iconify.design/devicon:twitter.svg?width=50)](https://x.com/AliBaBaSssS/)
+[![linkedIn](https://api.iconify.design/streamline-color:linkedin.svg?width=50)](https://www.linkedin.com/in/konstantinos-stylianou-a4a95625b/)
 
-<p>
- - My full name is <b>Konstantinos Stylianou</b> for friends <b>Kostas</b>. I love Technology Especialy Coding. 
-<br><br>- From young age i loved computers and had a dream to attend the informatics industry. After lots of effort and studies i fulfied my dreams and entered department of informatics of <strong> <u style="color:yellow;">University Of Western Macedonia (UOWM)</u></strong>, in October 2019. Finally on October of 2025 i managed to get my Bachelor Degree Of Computer Science.
-<br><br>- Before 2 years decided to start my coiding journey as a Front End Web Developer!
-<br><br>- Untill now, i managed to have strong knowledge on JavaScript/TypeScript and master Tailwinds CSS and Vue JS Framework. I also have a good knowledge of Node JS, Nest JS, mySQL and some basic knowledge on React, Java & Python.   
-<br><br>- Currently, i am fulfying my military service working as a seller in Kastoria's Military BX and doing my inernship at Anveto Marketers. Idont have so much time to code... but i'm giving my best to improve my projects and also take php & react courses in order to improve my skills and become a full stack developer.
-</p>
+# ![anonymous](https://api.iconify.design/twemoji:man-detective-medium-skin-tone.svg?width=35) About Myself:
+
+
+ - My full name is __Konstantinos Stylianou__ for friends __Styl__. I love Technology Especialy Coding. 
+
+- From young age i loved computers and had a dream to attend the informatics industry. After lots of effort and studies i fulfied my dreams and entered department of informatics of __<u>University Of Western Macedonia (UOWM)</u>__, in October 2019. Finally on September of 2025 i managed to get my Bachelor Degree Of Computer Science.
+
+- Before 3 years decided to focus on Web Development!
+
+ - I love creating Projects and Join teams that will make the world run easier.
+
+- My passion and Strong skills? JavaScript/TypeScript (of course), Tailwind CSS and VueJS. I also love to work with relational DBs and a bit with __PHP__.  
+
+- Currently, i am working as a frontend developer at Butler.
+  
+## Some Tools & Languages I am working on:
+![Vite_icon](https://api.iconify.design/logos:vitejs.svg?width=60)
+![Vue_Icon](https://api.iconify.design/logos:vue.svg?width=60)
+![Vite_icon](https://api.iconify.design/logos:typescript-icon-round.svg?width=60)
+![Vite_icon](https://api.iconify.design/logos:tailwindcss-icon.svg?width=60)
+![Vite_icon](https://api.iconify.design/logos:javascript.svg?width=60)
+![Vite_icon](https://api.iconify.design/devicon:nodejs.svg?width=60)
+![Vite_icon](https://api.iconify.design/skill-icons:mysql-dark.svg?width=60)
+![Vite_icon](https://api.iconify.design/vscode-icons:file-type-nest-middleware-ts.svg?width=60)
+![Vite_icon](https://api.iconify.design/logos:vitejs.svg?width=60)
+![Vite_icon](https://api.iconify.design/skill-icons:expressjs-light.svg?width=60)
+
+## ![Internet](https://api.iconify.design/zondicons:network.svg?color=%234188be&width=20) My Status On Daily.Dev:
+
+<a href="https://app.daily.dev/styl"><img src="https://api.daily.dev/devcards/v2/lyF4WBTvWMqO0vlNKBCi6.png?type=wide&r=vwo" width="452" alt="Styl's Dev Card"/></a>
  
-<br> 
-<h2 align="center"> 🚀 &nbsp;Some Tools & Languages I am working on:</h1>
-<p align="center">
-  <span><img src="https://api.iconify.design/logos:vitejs.svg?width=60" alt="Vite_icon"/></span> 
-  <span><img src="https://api.iconify.design/logos:vue.svg?width=60" alt="Vue_icon"/></span> 
-  <span><img src="https://api.iconify.design/logos:typescript-icon-round.svg?width=60" alt="TS_icon"/></span> 
-  <span><img src="https://api.iconify.design/logos:tailwindcss-icon.svg?width=60" alt="Tailwinds_icon"/></span> 
-  <span><img src="https://api.iconify.design/logos:javascript.svg?width=60" alt="JS_icon"/></span>
-  <span><img src="https://api.iconify.design/skill-icons:mongodb.svg?width=60" alt="Mongo_icon"/></span>
-  <span><img src="https://api.iconify.design/devicon:nodejs.svg?width=60" alt="Node_icon"/></span> 
-  <span><img src="https://api.iconify.design/skill-icons:mysql-dark.svg?width=60" alt="MySQL_icon"/></span> 
-<span><img src="https://api.iconify.design/vscode-icons:file-type-nest-middleware-ts.svg?width=60" alt="NestJS_icon"/></span> 
-  <span><img src="https://api.iconify.design/skill-icons:expressjs-light.svg?width=60" alt="Express_icon"/></span> 
-</p>
-
-<br> 
-<h2 align="center"> My GitHub Stats Until Now:</h2>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=StylWebDev&show_icons=true&locale=en&theme=synthwave&count_private=true&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=StylWebDev&theme=synthwave&hide_border=synthwave&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StylWebDev&layout=donut&theme=synthwave&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=StylWebDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br> 
-<h2 align="center"><img src="https://api.iconify.design/zondicons:network.svg?color=%234188be&width=30" />Projects I Have Worked On:</h1>
-
-<table style="border: none; width="100%"">
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><a href="https://stylforecast.pages.dev/"><img src="https://api.iconify.design/ri:meteor-fill.svg?color=%2322ce2d" width="20px" /> StylForecast </a></li>
-        <li><a href="https://mindspectrum.pages.dev/"><img src="https://api.iconify.design/ph:activity-bold.svg?color=%2322ce2d" width="20px" /> MindSpectrum </a></li>
-        <li><a href="https://stylquizzes.pages.dev/"><img src="https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/logo.svg" width="20px" /> StylsQuizzes</a></li>
-        <li><a href="https://styls.pages.dev/"><img src="https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/logo.svg" width="20px" /> StylsDev</a></li>
-        <li><a href="https://pokeinfo.pages.dev/"><img src="https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/pokeIcon.png" width="20px" /> PokeInfo</a></li>
-        <li><a href="https://stylsnotes.pages.dev"><img src="https://api.iconify.design/line-md:clipboard-list.svg?color=%2322ffffff" width="20px" /> StylNotes</a> </li>
-      </ul>
-    </td>
-    <td valign="top">
-      <a href="https://app.daily.dev/styl"><img src="https://api.daily.dev/devcards/v2/lyF4WBTvWMqO0vlNKBCi6.png?type=wide&r=vwo" width="452" alt="Styl's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
-
- <br> 
-<h2 align="center"><img src="https://api.iconify.design/twemoji:magnifying-glass-tilted-right.svg?width=35" /> My current position, goals, achievements & Certificates in a yamal style:</h1>
+## ![card](https://api.iconify.design/twemoji:magnifying-glass-tilted-right.svg?width=25) My current position, goals, achievements & Certificates in a yamal style:</h1>
 
 ```yamal
 current_position: Student.
@@ -90,7 +56,7 @@ fields_of_interests:[
 certification: [
   Certificates.dev: [
            "Certified Junior JavaScript Developer",
-           "Mid-level Vue JS Developer"
+           "Vue JS Developer Level I"
 ],
   ScrumStudy: [
            "SCRUM Fundamentals Certified"
@@ -133,7 +99,8 @@ certification: [
                   ],
   freeCodeCamp: [
                   "JavaScript Algorithms and Structures Legacy",
-                  "Responsive Web Design"
+                  "Responsive Web Design",
+                  "JavaScript Certification"
                 ],
   W3Schools: [
                 "Certified Javascript Devloper"
